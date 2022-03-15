@@ -1,3 +1,3 @@
 # Python
-Exercises
+## Exercises
 >Check Branches for exercise solutions
